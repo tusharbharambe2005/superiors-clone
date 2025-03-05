@@ -10,3 +10,24 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Superiors Clone
+
+## Description
+This project is a clone of Superiors Website made in React + Vite.
+
+### Features
+✅ Login  
+✅ Signup  
+✅ LocalStorage  
+✅ Starch wala UI 😏🔥
+
+## Preview
+![App Preview](src/assets//preview.png)
+
+---
+
+## How to Run?
+```bash
+npm install
+npm run dev
